@@ -8,10 +8,7 @@ The Foundations of Data Science
 
 Contributions by [David Wagner](https://www.cs.berkeley.edu/~daw/) and Henry Milner
 
-This is the textbook for the [Foundations of Data Science class at UC Berkeley][data8].
-
-[View this textbook online on GitHub Pages.][ghpages]
-
+This text was developed for the [Foundations of Data Science class at UC Berkeley][data8].
 [data8]: http://data8.org/
 [ghpages]: https://inferentialthinking.com
 
